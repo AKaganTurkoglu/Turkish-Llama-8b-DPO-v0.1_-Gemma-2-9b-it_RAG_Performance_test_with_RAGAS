@@ -1,0 +1,3 @@
+https://huggingface.co/ytu-ce-cosmos/Turkish-Llama-8b-DPO-v0.1/tree/main
+
+buradaki her dosyayı indirip buraya yapıştırın
